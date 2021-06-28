@@ -1,2 +1,2 @@
 
-canuse=error
+canuse=true
